@@ -1,0 +1,29 @@
+{
+  "name": "object-randomizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anjarpw/object-randomizer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anjarpw/object-randomizer/issues"
+  },
+  "homepage": "https://github.com/anjarpw/object-randomizer#readme",
+  "devDependencies": {
+    "@types/moment": "^2.13.0",
+    "@types/uuid": "^9.0.8",
+    "typescript": "^5.4.3"
+  },
+  "dependencies": {
+    "moment": "^2.30.1",
+    "uuid": "^9.0.1"
+  }
+}

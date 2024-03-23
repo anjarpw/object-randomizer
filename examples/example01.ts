@@ -1,4 +1,4 @@
-import { R } from "../rtool"
+import { R } from "../src/rtool"
 
 const generator = R.Array(
     R.Object({
